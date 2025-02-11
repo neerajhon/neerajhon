@@ -1,32 +1,45 @@
+![Header Image](Banner.png)
+
 <h1 align="center">Hi 👋, I'm Neeraj Velpula</h1>
 <h3 align="center">🚀 Data Analyst | Power BI Developer | Data Storyteller</h3>
-
-![Header Image](https://drive.google.com/file/d/1EaUy5zyJ0_WlecQH5EAqRnZlzQZESOw8/view?usp=drive_link)
+<p align="center">
+  🌐 <strong>Check out my portfolio:</strong>  
+  <a href="https://neerajvelpulportfolio.netlify.app/" target="_blank"><strong>My Portfolio</strong></a>
+</p>
 
 ---
 
-### 📖 About Me
-- 🎓 **Master's Student**: Pursuing a Master's degree in IT and Electrical Engineering at OVG Magdeburg.
-- 💼 **Working Student at Otto von Guericke University Magdeburg (OVGU)**: Creating projects in data analytics and visualization, like dashboards and reports.
-- 🎯 **Currently Learning**: Enrolled in the Codebasics Data Analytics Bootcamp to expand my analytics expertise with AI-powered tools.
-- 🔍 **Explore My Projects**: Find my analytics and dashboard creations on [LinkedIn](https://www.linkedin.com/in/achyut-golakiya-b133bb20b/).
-- 📢 **Let's Discuss**: Python, Power BI, Excel, SQL, and uncovering the stories hidden in data.
-- 📩 **Reach Me At**: achyutgolakiya2022@gmail.com
-- 😃 **Fun Fact**: I thrive on turning chaotic datasets into meaningful insights — "structured chaos" at its finest! 🤩
+### 📖 About Me  
+- 🎓 **Aspiring Data Analyst**: Passionate about data-driven decision-making with expertise in **Power BI, SQL, Excel, and Tableau**.
+- 🎓 **Education**: Graduated in **Computer Science and Engineering (CSE)**  
+- 🏆 **Certified Data Analyst**:  
+  - **Google Data Analytics Professional Certificate** ✅  
+  - **Microsoft Power BI Certified** ✅  
+- 📊 **Projects & Case Studies**: Worked on projects like **AP Schools Data Report, Ap Agriculture Data Report**, and **Sales Data Insights**, utilizing **MySQL, Power BI, and Tableau**.  
+- 🎯 **Currently Learning**: Exploring **AI-powered analytics** and enhancing skills in **predictive modeling and business intelligence**.  
+- 🔍 **Explore My Work**: Check out my **data analytics projects** and dashboards on **[GitHub](https://github.com/neerajhon)**.  
+- 📢 **Let's Connect**: Passionate about data storytelling, business insights, and AI-driven analytics.  
+- 📩 **Reach Me At**: neerajvelpula2001@gmail.com  
+- 🚀 **Fun Fact**: I love transforming raw data into meaningful insights—because **data never lies!** 📊✨  
 
 ---
 
 ### 🛠 What I Can Do:
 - **Data Cleaning & Organizing**: Transforming raw data into accessible, valuable, and structured formats.
 - **DAX Queries**: Creating effective measures to present data clearly and concisely.
-- **SQL Proficiency**: Working with SQL Server for data manipulation and database connections.
+- **Data Visualization**: specialize in transforming raw data into meaningful visual insights using Power BI, Tableau, and Excel.
 - **Continuous Learning**: Always adapting to new data analytics and visualization tools to stay ahead in the field.
+
+I am specialized in data cleaning, transformation, and visualization, ensuring raw data is structured, insightful, and ready for analysis. My expertise includes creating DAX queries, developing dynamic measures, and designing clear, concise reports that drive data-driven decision-making.
+
+Beyond mastering tools, I continuously explore emerging technologies in data analytics and visualization to stay ahead of industry trends. I believe that continuous learning is key in this evolving field, and I embrace new techniques to refine my skills.🚀
 
 ---
 
 ### 🌐 Languages:
 - English
-- German
+- Hindi
+- Telugu
 
 ---
 
@@ -41,19 +54,14 @@
 
 ---
 
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Golakiyaas&show_icons=true&theme=radical)
-  
----
-
 ### 📞 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achyut-golakiya-b133bb20b/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:achyutgolakiya2022@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeraj-velpula/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neerajvelpula2001@gmail.com)
 
 ---
 
 ### 📂 Popular Repositories:
-- [ev-sales-analysis-india-dashboard](https://github.com/Golakiyaas/ev-sales-analysis-india-dashboard) - **EV Market Analysis in India**
+- [AP Schools Data Report](https://github.com/neerajhon/power-bi-dashboards/tree/main/AP%20Schools%20Data%20Report) - **AP Schools Data Report**
 - [Sales-Finance-Business-Intelligence-Atliq](https://github.com/Golakiyaas/Sales-Finance-Business-Intelligence-Atliq) - **Business Intelligence Dashboards**
 - [Renewable-Energy-Data-Analysis](https://github.com/Golakiyaas/Renewable-Energy-Data-Analysis) - **Power BI Energy Analysis**
 
