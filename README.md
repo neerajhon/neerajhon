@@ -62,8 +62,8 @@ Beyond mastering tools, I continuously explore emerging technologies in data ana
 
 ### 📂 Popular Repositories:
 - [AP Schools Data Report](https://github.com/neerajhon/power-bi-dashboards/tree/main/AP%20Schools%20Data%20Report) - **AP Schools Data Report**
-- [Sales-Finance-Business-Intelligence-Atliq](https://github.com/Golakiyaas/Sales-Finance-Business-Intelligence-Atliq) - **Business Intelligence Dashboards**
-- [Renewable-Energy-Data-Analysis](https://github.com/Golakiyaas/Renewable-Energy-Data-Analysis) - **Power BI Energy Analysis**
+- [Andhra Pradesh Agriculture Overview](https://github.com/neerajhon/power-bi-dashboards/tree/main/Andhra%20Pradesh%20Agriculture%20Overview) - **Andhra Pradesh Agriculture Overview**
+- [Tailwind Traders Sales & Profit Dashboard](https://github.com/neerajhon/power-bi-dashboards/tree/main/Tailwind%20Traders%20Sales%20%26%20Profit%20Dashboard) - **Tailwind Traders Sales & Profit Dashboard**
 
 ---
 
