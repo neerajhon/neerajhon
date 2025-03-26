@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Data Analyst | Power BI Developer | Data Storyteller</h3>
 <p align="center">
   🌐 <strong>Check out my portfolio:</strong>  
-  <a href="https://neerajvelpulportfolio.netlify.app/" target="_blank"><strong>My Portfolio</strong></a>
+  <a href="https://neerajvelpula-portfolio.netlify.app/" target="_blank"><strong>My Portfolio</strong></a>
 </p>
 
 ---
